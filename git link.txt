@@ -1,0 +1,12 @@
+
+Bangla Tutorial - Build a registration system with email verification using PHP By PHPMailer
+https://github.com/PHPMailer/PHPMailer
+
+
+https://mailtrap.io/
+
+https://github.com/mamurjor/Bangla-Tutorial---Build-a-registration-system-with-email-verification-using-PHP-By-PHPMailer
+
+
+
+

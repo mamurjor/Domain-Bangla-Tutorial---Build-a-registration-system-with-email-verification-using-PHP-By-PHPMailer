@@ -1,0 +1,6 @@
+[31-May-2023 16:15:12 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/mamurjo1/email.mamurjor.com/verification/registration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mamurjo1/email.mamurjor.com/verification/registration.php on line 7
+[31-May-2023 17:36:48 UTC] PHP Warning:  Undefined variable $contents in /home/mamurjo1/email.mamurjor.com/verification/sendEmail.php on line 60
+[31-May-2023 17:36:55 UTC] PHP Warning:  Undefined variable $contents in /home/mamurjo1/email.mamurjor.com/verification/sendEmail.php on line 60
